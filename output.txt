@@ -1,0 +1,6 @@
+Power (r1) = 0.000000000000  Watt
+Power (r2) = 0.000000000000  Watt
+Power (r3) = 0.367346938775  Watt
+Power (r4) = 0.183673469388  Watt
+Power (i2) = 3.857142857142  VA
+Power (r5) = 3.306122448979  Watt
